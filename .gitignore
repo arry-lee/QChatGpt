@@ -1,0 +1,10 @@
+**/__pycache__/**
+/temp*
+/venv*
+/venv_*
+config.py
+/chats/*
+.DS_Store
+*.bat
+.stop_chatgpt
+.idea
